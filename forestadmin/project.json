@@ -1,0 +1,95 @@
+{
+  "project": {
+    "name": "betrybe/sd-0x-block5-project-mistery-letter",
+    "description": "Projeto de HTML, CSS & JavaScript.",
+    "enabled": true,
+    "deadline": "YYYY-MM-DD 17:10:00",
+    "requirements": [
+      {
+        "description": "Deve haver um `input` com o `id=\"carta-texto\"` onde o usuário poderá digitar o conteúdo da carta",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Deve haver um parágrafo com o `id=\"carta-gerada\"` onde o usuário verá o resultado de sua carta misteriosa",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Deve haver um botão com `id=\"criar-carta\"` e ao clicar nesse botão, a carta misteriosa deve ser gerada",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Ao criar uma carta através do botão `id=\"criar-carta\"`, o `input` com `id=\"carta-texto\"` deve permanecer com o texto digitado",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `newspaper`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `magazine1`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `magazine2`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `medium`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `big`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `reallybig`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `rotateleft`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `rotateright`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `skewleft`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Crie a classe `skewright`",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Adicione as classes de forma aleatória a fim de estilizar as palavras",
+        "enabled": true,
+        "bonus": false
+      },
+      {
+        "description": "Com uma carta misteriosa gerada, adicione a possibilidade de alterar o estilo de uma palavra específica ao clicar nela",
+        "enabled": true,
+        "bonus": true
+      },
+      {
+        "description": "Deve haver um parágrafo com o `id=\"carta-contador\"` onde existirá um contador de palavras",
+        "enabled": true,
+        "bonus": true
+      }
+    ]
+  }
+}
