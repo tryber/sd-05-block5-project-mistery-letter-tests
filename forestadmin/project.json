@@ -1,9 +1,9 @@
 {
   "project": {
-    "name": "betrybe/sd-0x-block5-project-mistery-letter",
+    "name": "tryber/sd-05-block5-project-mistery-letter",
     "description": "Projeto de HTML, CSS & JavaScript.",
     "enabled": true,
-    "deadline": "YYYY-MM-DD 17:10:00",
+    "deadline": "2020-06-03 17:10:00",
     "requirements": [
       {
         "description": "Deve haver um `input` com o `id=\"carta-texto\"` onde o usuário poderá digitar o conteúdo da carta",
